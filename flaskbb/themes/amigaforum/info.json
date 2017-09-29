@@ -1,0 +1,11 @@
+{
+    "application": "flaskbb",
+    "identifier": "amigaforum",
+    "name": "Amiga Forum",
+    "author": "johey",
+    "license": "AGPLv3",
+    "website": "https://www.amigaforum.se/",
+    "description": "Amiga Forum default template.",
+    "preview": "preview.png",
+    "version": "1.0.0"
+}
